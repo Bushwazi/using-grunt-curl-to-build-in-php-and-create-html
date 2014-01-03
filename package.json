@@ -1,0 +1,26 @@
+{
+  "name": "using-grunt-curl-to-build-in-php-and-create-html",
+  "version": "0.0.0",
+  "description": "using-grunt-curl-to-build-in-php-and-create-html ================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bushwazi/using-grunt-curl-to-build-in-php-and-create-html.git"
+  },
+  "author": "Jason Lydon @bushwa",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Bushwazi/using-grunt-curl-to-build-in-php-and-create-html/issues"
+  },
+  "homepage": "https://github.com/Bushwazi/using-grunt-curl-to-build-in-php-and-create-html",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-sass": "~0.6.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-curl": "~1.2.1"
+  }
+}
